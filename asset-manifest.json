@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kingdee211/web-project.git/static/css/main.c2c3e7be.css",
+    "main.js": "/Kingdee211/web-project.git/static/js/main.0ffb9927.js",
+    "static/js/317.a2a9cb83.chunk.js": "/Kingdee211/web-project.git/static/js/317.a2a9cb83.chunk.js",
+    "static/media/sap.png": "/Kingdee211/web-project.git/static/media/sap.1627b4aa7c1576959df6.png",
+    "static/media/ecom.png": "/Kingdee211/web-project.git/static/media/ecom.e347cd5a33efd5281789.png",
+    "static/media/cal.png": "/Kingdee211/web-project.git/static/media/cal.aab4e1ab9fba3328aabc.png",
+    "static/media/hotels.jpg": "/Kingdee211/web-project.git/static/media/hotels.e42afd788c0051e1407a.jpg",
+    "static/media/profile.jpeg": "/Kingdee211/web-project.git/static/media/profile.28ea8e94f501e9e959a1.jpeg",
+    "index.html": "/Kingdee211/web-project.git/index.html",
+    "main.c2c3e7be.css.map": "/Kingdee211/web-project.git/static/css/main.c2c3e7be.css.map",
+    "main.0ffb9927.js.map": "/Kingdee211/web-project.git/static/js/main.0ffb9927.js.map",
+    "317.a2a9cb83.chunk.js.map": "/Kingdee211/web-project.git/static/js/317.a2a9cb83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2c3e7be.css",
+    "static/js/main.0ffb9927.js"
+  ]
+}
